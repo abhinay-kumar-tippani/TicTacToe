@@ -4,9 +4,7 @@ body{
     /* justify-content: center; */
     background-color: #a7d8d8;
     align-items: center;
-    font-family: cursive;
 }
-
 
 .container{
     height: 300px;
@@ -31,6 +29,7 @@ body{
     font-family: cursive;
     background-color: whitesmoke;
     color: black;
+    font-family: "Comic Sans MS", cursive;
 }
 
 button{
